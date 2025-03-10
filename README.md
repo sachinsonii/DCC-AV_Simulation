@@ -28,8 +28,8 @@ pip install numpy pandas pygame matplotlib
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/your-username/autonomous-vehicle-sim.git
-cd autonomous-vehicle-sim
+git clone https://github.com/sachinsonii/DCC-AV_Simulation.git
+cd DCC-AV_Simulation
 ```
 
 ## Running the Simulation
@@ -46,13 +46,13 @@ This will:
 
 ## Visualization & Results
 - **Block Diagram**: Explains the decentralized consensus and control system used in the simulation.
-  ![Conference Presentation Block Diagram](path/to/block_diagram.png)
+  ![Conference Presentation Block Diagram](https://drive.google.com/file/d/1CaKAnUAxw2zdDWxYiVukRaHvceFb9otY/view?usp=drive_link)
 
 - **Simulation Demo Video**: Demonstrates the working of the simulation.
-  [![Watch Video](path/to/video_thumbnail.png)](path/to/demo_video.mp4)
+  [![Video Demo](https://drive.google.com/file/d/1kWVKE9rDvPD2UC6zBff1XBEjzN2pzuka/view?usp=sharing)
 
 - **Conference Presentation (PPT)**: The presentation slides from the conference.
-  [Download PPT](path/to/conference_presentation.pptx)
+  [Confrence PPT](https://docs.google.com/presentation/d/1py5A04F17aNLkjgPIMiGigetbMLvkrU0/edit?usp=drive_link&ouid=117808345366358779109&rtpof=true&sd=true)
 
 - **Velocity Over Time**: The simulation logs velocity changes and plots trends over time.
   ![Velocity Over Time](path/to/velocity_plot.png)
