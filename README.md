@@ -48,7 +48,7 @@ This will:
 - **Block Diagram**: Explains the decentralized consensus and control system used in the simulation.
   ![Conference Presentation Block Diagram](diagram.png)
 
-- **Simulation Demo Video**: Demonstrates the working of the simulation.
+- **Simulation Screenshot**: Demonstrates the working of the simulation.
   ![Simulation Screenshot](simu.JPG)
 
 - **Conference Presentation (PPT)**: The presentation slides from the conference.
@@ -65,6 +65,4 @@ This project is licensed under the MIT License.
 ## Author
 Developed as part of the conference paper **"Decentralized Consensus and Control for Autonomous Vehicles"** 
 Presented at **WPMC 24 IEEE at Sharda University**.
-
-For inquiries, contact [your-email@example.com].
 
