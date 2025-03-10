@@ -49,10 +49,10 @@ This will:
   ![Conference Presentation Block Diagram](https://drive.google.com/file/d/1CaKAnUAxw2zdDWxYiVukRaHvceFb9otY/view?usp=drive_link)
 
 - **Simulation Demo Video**: Demonstrates the working of the simulation.
-  [![Video Demo](https://drive.google.com/file/d/1kWVKE9rDvPD2UC6zBff1XBEjzN2pzuka/view?usp=sharing)
+  ![[Video Demo](https://drive.google.com/file/d/1CaKAnUAxw2zdDWxYiVukRaHvceFb9otY/view?usp=drive_link)
 
 - **Conference Presentation (PPT)**: The presentation slides from the conference.
-  [Confrence PPT](https://docs.google.com/presentation/d/1py5A04F17aNLkjgPIMiGigetbMLvkrU0/edit?usp=drive_link&ouid=117808345366358779109&rtpof=true&sd=true)
+  ![Confrence PPT](https://docs.google.com/presentation/d/1py5A04F17aNLkjgPIMiGigetbMLvkrU0/edit?usp=drive_link&ouid=117808345366358779109&rtpof=true&sd=true)
 
 ## Future Improvements
 - Implement more advanced RL techniques for adaptive velocity control.
