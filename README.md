@@ -54,9 +54,6 @@ This will:
 - **Conference Presentation (PPT)**: The presentation slides from the conference.
   [Confrence PPT](https://docs.google.com/presentation/d/1py5A04F17aNLkjgPIMiGigetbMLvkrU0/edit?usp=drive_link&ouid=117808345366358779109&rtpof=true&sd=true)
 
-- **Velocity Over Time**: The simulation logs velocity changes and plots trends over time.
-  ![Velocity Over Time](path/to/velocity_plot.png)
-
 ## Future Improvements
 - Implement more advanced RL techniques for adaptive velocity control.
 - Integrate obstacle detection and lane-changing behavior.
