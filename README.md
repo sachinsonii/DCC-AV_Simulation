@@ -46,7 +46,7 @@ This will:
 
 ## Visualization & Results
 - **Block Diagram**: Explains the decentralized consensus and control system used in the simulation.
-  ![Conference Presentation Block Diagram](https://drive.google.com/file/d/1CaKAnUAxw2zdDWxYiVukRaHvceFb9otY/view?usp=drive_link)
+  ![Conference Presentation Block Diagram](diagram.png)
 
 - **Simulation Demo Video**: Demonstrates the working of the simulation.
   ![[Video Demo](https://drive.google.com/file/d/1CaKAnUAxw2zdDWxYiVukRaHvceFb9otY/view?usp=drive_link)
