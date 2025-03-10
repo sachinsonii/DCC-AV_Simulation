@@ -49,10 +49,10 @@ This will:
   ![Conference Presentation Block Diagram](diagram.png)
 
 - **Simulation Demo Video**: Demonstrates the working of the simulation.
-  ![[Simulation Screenshot](simu.jpg)
+  ![[Simulation Screenshot](simu.JPG)
 
 - **Conference Presentation (PPT)**: The presentation slides from the conference.
-  ![Confrence PPT](1571070800.pptx)
+  ![Confrence PPT](https://docs.google.com/presentation/d/1py5A04F17aNLkjgPIMiGigetbMLvkrU0/edit?usp=drive_link&ouid=117808345366358779109&rtpof=true&sd=true)
 
 ## Future Improvements
 - Implement more advanced RL techniques for adaptive velocity control.
